@@ -4,7 +4,6 @@
 ---
 # :star: Sobre Mi:
 <p align="rigth">Desarrollador web</p>
----
 
 # 💻 Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,4 +15,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+# :mailbox: Contacto: <img src="https://img.icons8.com/?size=30&id=0P9EO7FglSqN&format=gif" width="20px">
+
 
