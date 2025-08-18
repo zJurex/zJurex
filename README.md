@@ -6,6 +6,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/128/16021/16021893.png" width="15px" aling="center"> Buenos Aires, Argentina
 - Desarrollador web apasionado, enfocado en lo Moderno y Seguro.
 - Siempre buscando mejorar, actualmente manejo principalmente **HTML**, **CSS** y **JavaScript**.
+- Estudiando Informatica
 
 # 💻 Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
