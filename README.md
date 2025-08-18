@@ -18,7 +18,7 @@
 
 # :construction: Proyectos:
 - [**LudopatiaARG**](https://ludopatia.netlify.app/)  
-Página de concientización sobre salud mental, con diseño moderno, responsive y alto contraste. Presenta información clave en bloques visuales atractivos.
+Página de concientización sobre la Ludopatia, con diseño moderno, responsive y alto contraste. Presenta información clave en bloques visuales atractivos.
 
 # :mailbox: Contacto:
 - **Email:** buenaventurajusto96@gmail.com  
