@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hola, soy Justo Buenaventura</h1>
-<p align="center">Desarrollador Web · Buenos Aires, Argentina</p>
+<p align="center">Desarrollador Web - Buenos Aires, Argentina</p>
 
 ---
 # :star: Sobre Mi:
