@@ -3,7 +3,7 @@
 
 ---
 # :star: Sobre Mi:
-- <img src="https://cdn-icons-png.flaticon.com/128/16021/16021893.png" width="20px"> Buenos Aires, Argentina
+- <img src="https://cdn-icons-png.flaticon.com/128/16021/16021893.png" width="15px" aling="center"> Buenos Aires, Argentina
 - 18 años
 - Desarrollador web apasionado, enfocado en lo Moderno y Seguro. Estoy siempre buscando mejorar, actualmente manejo principalmente **HTML**, **CSS** y **JavaScript**.
 
