@@ -16,6 +16,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# :mailbox: Contacto: <img src="https://img.icons8.com/?size=30&id=0P9EO7FglSqN&format=gif" width="20px">
+# :mailbox: Contacto:
+- **Email:** buenaventurajusto96@gmail.com  
+- **Discord:** @zjurex
 
 
