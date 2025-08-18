@@ -16,6 +16,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+# :construction: Proyectos:
+- [**LudopatiaARG**](https://ludopatia.netlify.app/)  
+Página de concientización sobre salud mental, con diseño moderno, responsive y alto contraste. Presenta información clave en bloques visuales atractivos.
+
 # :mailbox: Contacto:
 - **Email:** buenaventurajusto96@gmail.com  
 - **Discord:** @zjurex
