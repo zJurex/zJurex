@@ -3,7 +3,7 @@
 
 ---
 # :star: Sobre Mi:
-<p align="rigth">Desarrollador web</p>
+<p align="rigth">Desarrollador web apasionado, enfocado en lo Moderno y Seguro. Estoy siempre buscando mejorar, actualmente manejo principalmente **HTML**, **CSS** y **JavaScript**.</p>
 
 # 💻 Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
