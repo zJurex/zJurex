@@ -3,8 +3,9 @@
 
 ---
 # :star: Sobre Mi:
-
-Desarrollador web apasionado, enfocado en lo Moderno y Seguro. Estoy siempre buscando mejorar, actualmente manejo principalmente **HTML**, **CSS** y **JavaScript**.
+- <img src="https://cdn-icons-png.flaticon.com/128/16021/16021893.png" width="20px"> Buenos Aires, Argentina
+- 18 años
+- Desarrollador web apasionado, enfocado en lo Moderno y Seguro. Estoy siempre buscando mejorar, actualmente manejo principalmente **HTML**, **CSS** y **JavaScript**.
 
 # 💻 Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
