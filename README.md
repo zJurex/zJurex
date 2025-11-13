@@ -20,6 +20,12 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 # :construction: Proyectos:
+- [**Portafolio**](https://ludopatia.netlify.app/)  
+Portafolio Personal. Experiencia y conocimientos aplicados.
+- [**BounceMan**](https://zjurex.itch.io/bounce-man)  
+Juego 2D en Unity/C#. Corre, salta y llega a la meta en el menor tiempo.
+- [**JordanMP**](https://jordanmp.netlify.app/)  
+Tienda de Ropa, no funcional, Moderna, enfocada en la seccion Jordan de Nike
 - [**LudopatiaARG**](https://ludopatia.netlify.app/)  
 Página de concientización sobre la Ludopatia, con diseño moderno, responsive y alto contraste. Presenta información clave en bloques visuales atractivos.
 
