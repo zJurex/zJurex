@@ -20,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 # :construction: Proyectos:
-- [**Portafolio**](https://ludopatia.netlify.app/)  
+- [**Portafolio**](https://justodev.netlify.app/)  
 Portafolio Personal. Experiencia y conocimientos aplicados.
 - [**BounceMan**](https://zjurex.itch.io/bounce-man)  
 Juego 2D en Unity/C#. Corre, salta y llega a la meta en el menor tiempo.
